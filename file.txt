@@ -1,0 +1,1 @@
+This file is a demonstration of Git stash and chery picking concept.
